@@ -1,1 +1,1 @@
-routmoute/fxserver
+routmoute/fxserver:latest
