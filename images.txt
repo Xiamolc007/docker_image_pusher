@@ -1,1 +1,2 @@
 routmoute/fxserver:latest
+docker4cn/debian:latest
