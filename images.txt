@@ -1,2 +1,2 @@
 routmoute/fxserver:latest
-debian:latest
+debian
