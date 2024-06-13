@@ -1,2 +1,2 @@
 routmoute/fxserver:latest
-debian
+library/mariadb:11.4
